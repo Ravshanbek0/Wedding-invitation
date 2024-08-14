@@ -114,7 +114,7 @@ header h1 {
 
 @media screen and (max-width: 490px) {
     .invitation {
-        width: 80%;
+        width: 90%;
 
     }
 
@@ -155,6 +155,6 @@ header h1 {
         justify-content: space-around;
         /* gap: 25px; */
         margin-top: 27px;
-        font-size: 1.5em;
+        /* font-size: 1.5em; */
     }
 }
