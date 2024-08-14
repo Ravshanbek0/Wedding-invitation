@@ -140,7 +140,7 @@ header h1 {
         font-size: 20px;
     }
     .time {
-        background: rgba(254, 182, 182, 0.9);
+        /* background: rgba(254, 182, 182, 0.9); */
         width: 70px;
         height: 35px;
         display: flex;
