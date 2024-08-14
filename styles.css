@@ -34,7 +34,7 @@ html {
 
 header h1,
 .details h2 {
-    color: #d60051;
+    color: #12549a;
 }
 
 .countdown {
@@ -47,10 +47,11 @@ header h1,
 }
 
 .time {
-    background: rgba(254, 182, 182, 0.9);
+    background: #12549a;
     width: 100px;
     height: 55px;
     display: flex;
+    color: #fff;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -66,7 +67,7 @@ header h1,
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #d60051;
+    background-color: #12549a;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -75,7 +76,7 @@ header h1,
 }
 
 .map-button:hover {
-    background-color: #bf0040;
+    background-color: #053567;
 }
 
 header p {
