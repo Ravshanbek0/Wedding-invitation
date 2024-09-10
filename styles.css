@@ -16,7 +16,7 @@ html {
     justify-content: center;
     align-items: center;
     font-family: 'Arial', sans-serif;
-    background: url('./weeding.jpg') no-repeat center center fixed;
+    background: url('./back2.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -34,7 +34,7 @@ html {
 
 header h1,
 .details h2 {
-    color: #12549a;
+    color: #f36680;
 }
 
 .countdown {
@@ -47,7 +47,7 @@ header h1,
 }
 
 .time {
-    background: #12549a;
+    background: #f36680;
     width: 100px;
     height: 55px;
     display: flex;
@@ -67,7 +67,7 @@ header h1,
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #12549a;
+    background-color: #f36680;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -76,7 +76,7 @@ header h1,
 }
 
 .map-button:hover {
-    background-color: #053567;
+    background-color: #c17180;
 }
 
 header p {
